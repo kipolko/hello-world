@@ -1,4 +1,4 @@
 # hello-world
-hello world
+hello world!
 
-I am at YOYOGI PARK now.  
+this is a test.
